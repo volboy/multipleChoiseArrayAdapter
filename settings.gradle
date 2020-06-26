@@ -1,0 +1,2 @@
+rootProject.name='multipleChoiseArrayAdapter'
+include ':app'
